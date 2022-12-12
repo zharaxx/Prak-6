@@ -1,2 +1,2 @@
-# Prak-6
-Praktikum 6 Pemweb
+# Pemweb-Pertemuan-6
+Tugas Praktikum 6 Pemrograman Web
